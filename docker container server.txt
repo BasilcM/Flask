@@ -1,0 +1,3 @@
+https://www.docker.com/blog/build-your-first-docker-windows-server-container/
+
+https://download.docker.com/win/beta/InstallDocker.msi
